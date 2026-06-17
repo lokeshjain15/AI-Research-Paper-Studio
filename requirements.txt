@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+plotly
+google-generativeai
+PyMuPDF
+faiss-cpu
+sentence-transformers
+bibtexparser
+jinja2
+python-docx
