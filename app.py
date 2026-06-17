@@ -20,9 +20,10 @@ except ImportError:
 
 try:
     import faiss
-    
+
 except ImportError:
     faiss = None
+    
 
 try:
     from sentence_transformers import SentenceTransformer
